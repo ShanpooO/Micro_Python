@@ -12,7 +12,7 @@
 
 ## Overview
 
-## Exploratory development for Micro-Python on Pyboard
+> Exploratory development for Micro-Python on Pyboard
 
 ---
 
