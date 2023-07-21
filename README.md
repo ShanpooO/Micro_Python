@@ -18,5 +18,5 @@
 
 ## Documentation
 
-### You could get the document called: [MicroPython Using Report](https://github.com/ShanpooO/Micro_Python/blob/main/MicroPython%20Using%20Report.docx) as User Guide
+### You could get the document [MicroPython Using Report](https://github.com/ShanpooO/Micro_Python/blob/main/MicroPython%20Using%20Report.docx) as User Guide
 
